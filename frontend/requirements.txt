@@ -1,0 +1,41 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn
+
+# Environment variables loader
+python-dotenv
+
+# Data processing and plotting
+pandas
+matplotlib
+
+# Snowflake connector
+snowflake-connector-python
+
+# LangChain and LangGraph (for your RAG and agent functionalities)
+langchain
+langgraph
+
+# Token counting and LLM utilities
+tiktoken
+litellm
+google-generativeai
+openai
+anthropic
+langchain-community
+
+# Pinecone and embeddings
+pinecone-client
+sentence-transformers
+
+# Yahoo query for financial data
+yahooquery
+
+# Web search client (Tavily)
+tavily-python
+
+# Streamlit (for the frontend app)
+streamlit
+
+# HTTP client for API requests in Streamlit
+requests
