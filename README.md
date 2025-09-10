@@ -1,4 +1,4 @@
-# Multi-Agent Research Assistant (Assignment 5.1)
+# Multi-Agent Research Assistant 
 
 An integrated research assistant that leverages three specialized agents to provide comprehensive, data-driven research reports on NVIDIA. This project combines a Snowflake Agent (for structured financial valuation data), a Pinecone-powered RAG Agent (for historical NVIDIA reports), and a Web Search Agent (for real-time insights) into one cohesive system orchestrated with LangGraph.
 
