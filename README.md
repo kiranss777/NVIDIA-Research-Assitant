@@ -2,8 +2,6 @@
 
 An integrated research assistant that leverages three specialized agents to provide comprehensive, data-driven research reports on NVIDIA. This project combines a Snowflake Agent (for structured financial valuation data), a Pinecone-powered RAG Agent (for historical NVIDIA reports), and a Web Search Agent (for real-time insights) into one cohesive system orchestrated with LangGraph.
 
-#Application URL:http://34.28.77.168:8501/
-#Backend URL:http://34.28.77.168:8000/
 
 #Demo Video:https://www.loom.com/share/e49782356b9e4166a6a05f40c66b6291?sid=5430a24b-edd1-4400-804d-8e07125b8d40
 
